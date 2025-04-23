@@ -296,26 +296,6 @@ class _SignUpScreenState extends State<SignUpScreen> {
               ),
               const SizedBox(height: 16.0),
 
-              // Phone Number Field
-              TextFormField(
-                controller: _phoneController,
-                decoration: const InputDecoration(
-                  labelText: 'Phone Number',
-                  border: OutlineInputBorder(),
-                ),
-                keyboardType: TextInputType.phone,
-                validator: (value) {
-                  if (value == null || value.isEmpty) {
-                    return 'Please enter your phone number';
-                  }
-                  final phoneRegex = RegExp(r'^\d{10}$');
-                  if (!phoneRegex.hasMatch(value)) {
-                    return 'Please enter a valid 10-digit phone number';
-                  }
-                  return null;
-                },
-              ),
-              const SizedBox(height: 16.0),
 
               // Password Field
               TextFormField(
@@ -457,6 +437,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                       );
                     },
                     child: const Text(
+                      'hi, para'
                       'Sign In',
                       style: TextStyle(color: Colors.brown, fontWeight: FontWeight.bold),
                     ),
