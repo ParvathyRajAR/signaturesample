@@ -1,0 +1,37 @@
+com.example.templeapp-lifecycle-runtime-2.7.0-0 C:\Users\parva\.gradle\caches\transforms-3\1ad28abe7b9a4fdf30c842e2061b8a04\transformed\lifecycle-runtime-2.7.0\res
+com.example.templeapp-jetified-core-common-2.0.3-1 C:\Users\parva\.gradle\caches\transforms-3\1c681dd4d92e23e588ee7427bd1f725f\transformed\jetified-core-common-2.0.3\res
+com.example.templeapp-fragment-1.7.1-2 C:\Users\parva\.gradle\caches\transforms-3\20e845999c59cd663ecaac9543a6f13e\transformed\fragment-1.7.1\res
+com.example.templeapp-jetified-window-1.2.0-3 C:\Users\parva\.gradle\caches\transforms-3\29a8b6cf9f18e8e51f4a415eb996a2c0\transformed\jetified-window-1.2.0\res
+com.example.templeapp-jetified-credentials-play-services-auth-1.2.0-rc01-4 C:\Users\parva\.gradle\caches\transforms-3\480c0c5723b242409027de56eca3c5a7\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.templeapp-jetified-lifecycle-process-2.7.0-5 C:\Users\parva\.gradle\caches\transforms-3\4883f77ec678215c5960ba7109d6f335\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.templeapp-browser-1.4.0-6 C:\Users\parva\.gradle\caches\transforms-3\50c24b928f7d27be748b650d29aab759\transformed\browser-1.4.0\res
+com.example.templeapp-core-1.13.1-7 C:\Users\parva\.gradle\caches\transforms-3\51863edc8ae7922c591ec024bc0a0b7b\transformed\core-1.13.1\res
+com.example.templeapp-jetified-firebase-common-21.0.0-8 C:\Users\parva\.gradle\caches\transforms-3\6a1c977dc3e99b42be54d4f6692ca242\transformed\jetified-firebase-common-21.0.0\res
+com.example.templeapp-jetified-savedstate-1.2.1-9 C:\Users\parva\.gradle\caches\transforms-3\6d8dfb3114d534e742996eb602c87889\transformed\jetified-savedstate-1.2.1\res
+com.example.templeapp-core-runtime-2.2.0-10 C:\Users\parva\.gradle\caches\transforms-3\75d891e1e40e4eb9c91411d1de20ae5b\transformed\core-runtime-2.2.0\res
+com.example.templeapp-jetified-annotation-experimental-1.4.0-11 C:\Users\parva\.gradle\caches\transforms-3\77d402acad90cff3a1668d9bcfd4290a\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.templeapp-jetified-core-ktx-1.13.1-12 C:\Users\parva\.gradle\caches\transforms-3\787bb1ce1d5d785a9b594d25f927c9ad\transformed\jetified-core-ktx-1.13.1\res
+com.example.templeapp-jetified-lifecycle-viewmodel-savedstate-2.7.0-13 C:\Users\parva\.gradle\caches\transforms-3\8d449c0eeb01a84245d278e3644611cc\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.templeapp-jetified-credentials-1.2.0-rc01-14 C:\Users\parva\.gradle\caches\transforms-3\9b22ea8a079f4ca53199ee34d9f5ea46\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.templeapp-jetified-profileinstaller-1.3.1-15 C:\Users\parva\.gradle\caches\transforms-3\a180e50f3ee52b3962f081592444568a\transformed\jetified-profileinstaller-1.3.1\res
+com.example.templeapp-jetified-play-services-base-18.0.1-16 C:\Users\parva\.gradle\caches\transforms-3\b20eb1589c794b88c79fb36a45f047f7\transformed\jetified-play-services-base-18.0.1\res
+com.example.templeapp-lifecycle-viewmodel-2.7.0-17 C:\Users\parva\.gradle\caches\transforms-3\bd17ab1772b502411e47aeda0ed06ab3\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.templeapp-jetified-tracing-1.2.0-18 C:\Users\parva\.gradle\caches\transforms-3\c028b5819d4e386bcfbf50ff5b00d143\transformed\jetified-tracing-1.2.0\res
+com.example.templeapp-lifecycle-livedata-core-2.7.0-19 C:\Users\parva\.gradle\caches\transforms-3\c6d951ae63b87d15d0de7590075f55f3\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.templeapp-jetified-window-java-1.2.0-20 C:\Users\parva\.gradle\caches\transforms-3\d1f58c3dd7d2654749147087604e871a\transformed\jetified-window-java-1.2.0\res
+com.example.templeapp-jetified-activity-1.8.1-21 C:\Users\parva\.gradle\caches\transforms-3\d59104c49ecae4e6743ee62c0acfdcf3\transformed\jetified-activity-1.8.1\res
+com.example.templeapp-jetified-play-services-basement-18.4.0-22 C:\Users\parva\.gradle\caches\transforms-3\d65dc376b10b77463c859725af9ce3fe\transformed\jetified-play-services-basement-18.4.0\res
+com.example.templeapp-jetified-play-services-auth-21.0.0-23 C:\Users\parva\.gradle\caches\transforms-3\d7e93f643b86f19037072268cedffda4\transformed\jetified-play-services-auth-21.0.0\res
+com.example.templeapp-jetified-core-1.0.0-24 C:\Users\parva\.gradle\caches\transforms-3\de0e671eae263c6f2113dc55c7103636\transformed\jetified-core-1.0.0\res
+com.example.templeapp-jetified-startup-runtime-1.1.1-25 C:\Users\parva\.gradle\caches\transforms-3\faf2ca44b0786cdbc051e856027fa38b\transformed\jetified-startup-runtime-1.1.1\res
+com.example.templeapp-debug-26 C:\new flutter\templeapp\android\app\src\debug\res
+com.example.templeapp-main-27 C:\new flutter\templeapp\android\app\src\main\res
+com.example.templeapp-google-services-28 C:\new flutter\templeapp\build\app\generated\res\google-services\debug
+com.example.templeapp-pngs-29 C:\new flutter\templeapp\build\app\generated\res\pngs\debug
+com.example.templeapp-resValues-30 C:\new flutter\templeapp\build\app\generated\res\resValues\debug
+com.example.templeapp-packageDebugResources-31 C:\new flutter\templeapp\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.templeapp-packageDebugResources-32 C:\new flutter\templeapp\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.templeapp-merged_res-33 C:\new flutter\templeapp\build\app\intermediates\merged_res\debug
+com.example.templeapp-packaged_res-34 C:\new flutter\templeapp\build\firebase_auth\intermediates\packaged_res\debug
+com.example.templeapp-packaged_res-35 C:\new flutter\templeapp\build\firebase_core\intermediates\packaged_res\debug
+com.example.templeapp-packaged_res-36 C:\new flutter\templeapp\build\google_sign_in_android\intermediates\packaged_res\debug

@@ -1,0 +1,1 @@
+ C:\\new\ flutter\\templeapp\\.dart_tool\\flutter_build\\374fa6dece7e35c17eb61f3a1e5de3cc\\native_assets.yaml: 

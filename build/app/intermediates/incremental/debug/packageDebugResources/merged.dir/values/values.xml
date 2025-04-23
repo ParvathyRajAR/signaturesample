@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">984471298345</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrTjK9R3ftqjv00vUbhq6gmJNHjw2IMJ0</string>
+    <string name="google_app_id" translatable="false">1:984471298345:android:07981153159b2e3dedd738</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrTjK9R3ftqjv00vUbhq6gmJNHjw2IMJ0</string>
+    <string name="google_storage_bucket" translatable="false">templeapp-4655b.firebasestorage.app</string>
+    <string name="project_id" translatable="false">templeapp-4655b</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
